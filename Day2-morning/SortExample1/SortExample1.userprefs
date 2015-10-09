@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="SortExample1/SortExample1.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/nikhil/Projects/SortExample1/GarbageCollectionsDemo/Program.cs" line="10" column="1" />
+      <Breakpoint file="/Users/nikhil/Projects/SortExample1/GarbageCollectionsDemo/Program.cs" line="14" column="1" />
+      <Breakpoint file="/Users/nikhil/Projects/SortExample1/GarbageCollectionsDemo/Program.cs" line="17" column="41" />
+      <Breakpoint file="/Users/nikhil/Projects/SortExample1/GarbageCollectionsDemo/Program.cs" line="20" column="1" />
+      <Breakpoint file="/Users/nikhil/Projects/SortExample1/GarbageCollectionsDemo/Program.cs" line="25" column="1" />
+      <Breakpoint file="/Users/nikhil/Projects/SortExample1/GarbageCollectionsDemo/Program.cs" line="9" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
