@@ -1,0 +1,5 @@
+/Users/nikhil/Projects/FilesProb3/FilesProb3/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/nikhil/Projects/FilesProb3/FilesProb3/bin/Debug/FilesProb3.exe.mdb
+/Users/nikhil/Projects/FilesProb3/FilesProb3/bin/Debug/FilesProb3.exe
+/Users/nikhil/Projects/FilesProb3/FilesProb3/obj/x86/Debug/FilesProb3.exe
+/Users/nikhil/Projects/FilesProb3/FilesProb3/obj/x86/Debug/FilesProb3.exe.mdb
