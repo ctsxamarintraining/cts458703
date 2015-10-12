@@ -1,0 +1,6 @@
+/Users/nikhil/Projects/JSONSerialization/JSONSerialization/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/nikhil/Projects/JSONSerialization/JSONSerialization/bin/Debug/Newtonsoft.Json.dll
+/Users/nikhil/Projects/JSONSerialization/JSONSerialization/bin/Debug/JSONSerialization.exe.mdb
+/Users/nikhil/Projects/JSONSerialization/JSONSerialization/bin/Debug/JSONSerialization.exe
+/Users/nikhil/Projects/JSONSerialization/JSONSerialization/obj/x86/Debug/JSONSerialization.exe
+/Users/nikhil/Projects/JSONSerialization/JSONSerialization/obj/x86/Debug/JSONSerialization.exe.mdb
