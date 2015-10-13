@@ -1,0 +1,5 @@
+/Users/nikhil/Projects/ExceptionHandling1/ExceptionHandling1/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/nikhil/Projects/ExceptionHandling1/ExceptionHandling1/bin/Debug/ExceptionHandling1.exe.mdb
+/Users/nikhil/Projects/ExceptionHandling1/ExceptionHandling1/bin/Debug/ExceptionHandling1.exe
+/Users/nikhil/Projects/ExceptionHandling1/ExceptionHandling1/obj/x86/Debug/ExceptionHandling1.exe
+/Users/nikhil/Projects/ExceptionHandling1/ExceptionHandling1/obj/x86/Debug/ExceptionHandling1.exe.mdb

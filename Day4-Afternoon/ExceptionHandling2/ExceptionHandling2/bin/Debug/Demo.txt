@@ -1,0 +1,1 @@
+This example calls the Convert.ToInt32(String) method to convert an input string to an int . The code catches the two most common exceptions that can be thrown by this method, FormatException and OverflowException. If the number can be incremented without overflowing the integer storage location, the program adds 1 to the result and prints the output.

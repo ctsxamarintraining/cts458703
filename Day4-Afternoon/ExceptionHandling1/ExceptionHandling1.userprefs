@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="ExceptionHandling1/ExceptionHandling1.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExceptionHandling1/Program.cs">
+    <Files>
+      <File FileName="ExceptionHandling1/Program.cs" Line="17" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
