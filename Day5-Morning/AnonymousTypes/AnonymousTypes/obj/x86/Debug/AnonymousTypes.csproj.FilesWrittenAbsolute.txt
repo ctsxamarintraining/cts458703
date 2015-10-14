@@ -1,0 +1,5 @@
+/Users/nikhil/Projects/AnonymousTypes/AnonymousTypes/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/nikhil/Projects/AnonymousTypes/AnonymousTypes/bin/Debug/AnonymousTypes.exe.mdb
+/Users/nikhil/Projects/AnonymousTypes/AnonymousTypes/bin/Debug/AnonymousTypes.exe
+/Users/nikhil/Projects/AnonymousTypes/AnonymousTypes/obj/x86/Debug/AnonymousTypes.exe
+/Users/nikhil/Projects/AnonymousTypes/AnonymousTypes/obj/x86/Debug/AnonymousTypes.exe.mdb

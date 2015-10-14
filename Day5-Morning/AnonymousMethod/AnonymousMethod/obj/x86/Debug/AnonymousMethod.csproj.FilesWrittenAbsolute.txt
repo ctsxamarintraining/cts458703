@@ -1,0 +1,5 @@
+/Users/nikhil/Projects/AnonymousMethod/AnonymousMethod/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/nikhil/Projects/AnonymousMethod/AnonymousMethod/bin/Debug/AnonymousMethod.exe.mdb
+/Users/nikhil/Projects/AnonymousMethod/AnonymousMethod/bin/Debug/AnonymousMethod.exe
+/Users/nikhil/Projects/AnonymousMethod/AnonymousMethod/obj/x86/Debug/AnonymousMethod.exe
+/Users/nikhil/Projects/AnonymousMethod/AnonymousMethod/obj/x86/Debug/AnonymousMethod.exe.mdb

@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousMethod", "AnonymousMethod\AnonymousMethod.csproj", "{E84F6C28-31E1-4064-ABEA-F9AB19929597}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E84F6C28-31E1-4064-ABEA-F9AB19929597}.Debug|x86.ActiveCfg = Debug|x86
+		{E84F6C28-31E1-4064-ABEA-F9AB19929597}.Debug|x86.Build.0 = Debug|x86
+		{E84F6C28-31E1-4064-ABEA-F9AB19929597}.Release|x86.ActiveCfg = Release|x86
+		{E84F6C28-31E1-4064-ABEA-F9AB19929597}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
