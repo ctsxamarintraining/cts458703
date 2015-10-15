@@ -1,0 +1,5 @@
+/Users/nikhil/Projects/StacksQueues/StacksQueues/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/nikhil/Projects/StacksQueues/StacksQueues/bin/Debug/StacksQueues.exe.mdb
+/Users/nikhil/Projects/StacksQueues/StacksQueues/bin/Debug/StacksQueues.exe
+/Users/nikhil/Projects/StacksQueues/StacksQueues/obj/x86/Debug/StacksQueues.exe
+/Users/nikhil/Projects/StacksQueues/StacksQueues/obj/x86/Debug/StacksQueues.exe.mdb
