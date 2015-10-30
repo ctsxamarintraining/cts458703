@@ -1,0 +1,15 @@
+/Users/nikhil/Projects/Demo2/Demo2/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/nikhil/Projects/Demo2/Demo2/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/nikhil/Projects/Demo2/Demo2/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/nikhil/Projects/Demo2/Demo2/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/nikhil/Projects/Demo2/Demo2/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-aZQ-tk-e6z.nib
+/Users/nikhil/Projects/Demo2/Demo2/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-aiQ-pz-aww.nib
+/Users/nikhil/Projects/Demo2/Demo2/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/aiQ-pz-aww-view-cLZ-Zc-9WR.nib
+/Users/nikhil/Projects/Demo2/Demo2/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/nikhil/Projects/Demo2/Demo2/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/nikhil/Projects/Demo2/Demo2/obj/iPhoneSimulator/Debug/optimized/
+/Users/nikhil/Projects/Demo2/Demo2/bin/iPhoneSimulator/Debug/Demo2.exe.mdb
+/Users/nikhil/Projects/Demo2/Demo2/bin/iPhoneSimulator/Debug/Demo2.exe
+/Users/nikhil/Projects/Demo2/Demo2/obj/iPhoneSimulator/Debug/Demo2.exe
+/Users/nikhil/Projects/Demo2/Demo2/obj/iPhoneSimulator/Debug/Demo2.exe.mdb
+/Users/nikhil/Projects/Demo2/Demo2/bin/iPhoneSimulator/Debug/Calabash.dll
