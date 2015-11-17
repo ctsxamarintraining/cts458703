@@ -1,0 +1,17 @@
+/Users/nikhil/Projects/XamarinForms1/XamarinForms1/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/nikhil/Projects/XamarinForms1/XamarinForms1/bin/Debug/Xamarin.Forms.Core.dll
+/Users/nikhil/Projects/XamarinForms1/XamarinForms1/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/nikhil/Projects/XamarinForms1/XamarinForms1/bin/Debug/XamarinForms1.dll.mdb
+/Users/nikhil/Projects/XamarinForms1/XamarinForms1/bin/Debug/XamarinForms1.dll
+/Users/nikhil/Projects/XamarinForms1/XamarinForms1/obj/Debug/XamarinForms1.dll
+/Users/nikhil/Projects/XamarinForms1/XamarinForms1/obj/Debug/XamarinForms1.dll.mdb
+/Users/nikhil/Projects/XamarinForms1/XamarinForms1/bin/Debug/mscorlib.dll
+/Users/nikhil/Projects/XamarinForms1/XamarinForms1/bin/Debug/System.Core.dll
+/Users/nikhil/Projects/XamarinForms1/XamarinForms1/bin/Debug/System.dll
+/Users/nikhil/Projects/XamarinForms1/XamarinForms1/bin/Debug/System.Linq.Queryable.dll
+/Users/nikhil/Projects/XamarinForms1/XamarinForms1/bin/Debug/System.Diagnostics.Tools.dll
+/Users/nikhil/Projects/XamarinForms1/XamarinForms1/bin/Debug/System.ComponentModel.EventBasedAsync.dll
+/Users/nikhil/Projects/XamarinForms1/XamarinForms1/bin/Debug/System.Net.Primitives.dll
+/Users/nikhil/Projects/XamarinForms1/XamarinForms1/bin/Debug/System.Net.Requests.dll
+/Users/nikhil/Projects/XamarinForms1/XamarinForms1/bin/Debug/System.Net.NetworkInformation.dll
+/Users/nikhil/Projects/XamarinForms1/XamarinForms1/bin/Debug/System.Text.RegularExpressions.dll
