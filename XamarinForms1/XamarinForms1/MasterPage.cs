@@ -46,7 +46,7 @@ namespace XamarinForms1
 			{
 				if(listView.SelectedItem.ToString()==@"ContentPage")
 				{
-					
+					this.Detail = new NavigationPage(new MyPage());
 				}
 				else if(listView.SelectedItem.ToString()==@"CarouselPage")
 				{

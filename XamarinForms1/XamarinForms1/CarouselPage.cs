@@ -9,33 +9,30 @@ namespace XamarinForms1
 	{
 		public CarouselPage ()
 		{
-//			Content = new StackLayout { 
-//				Children = {
-//					new Label { Text = "Hello CarousellPage" }
-//				}
-//			};
-//
-//			List<ContentPage> pages = new List<ContentPage> (0);
-//			Color[] colors = { Color.Red, Color.Green, Color.Blue };
-//			foreach (Color c in colors) {
-//				pages.Add (new ContentPage { Content = new StackLayout {
-//						Children = {
-//							new BoxView {
-//								Color = c,
-//								VerticalOptions = LayoutOptions.FillAndExpand
-//							}
-//						}
-//					}
-//				});
-//			}
-//
-//			CarouselPage  view = new CarouselPage {
-//				Children = { pages [0],
-//					pages [1],
-//					pages [2] }
-//			};
-//
 
+
+			List<ContentPage> pages = new List<ContentPage> (0);
+			Color[] colors = { Color.Red, Color.Green, Color.Blue,Color.Gray,Color.Yellow };
+			foreach (Color c in colors) {
+				pages.Add (new ContentPage { Content = new StackLayout {
+						Children = {
+							new Label { Text = "Carousel Demo"},
+							new BoxView {
+								Color = c,
+								VerticalOptions = LayoutOptions.FillAndExpand
+							}
+						}
+					}
+				});
+			}
+			this.Children.Add (pages[0]);
+			this.Children.Add (pages[1]);
+			this.Children.Add (pages[2]);
+			this.Children.Add (pages[3]);
+			this.Children.Add (pages[4]);
+
+		
+	
 
 		}
 	}
