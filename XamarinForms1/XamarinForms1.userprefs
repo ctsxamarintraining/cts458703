@@ -1,1 +1,17 @@
-﻿<Properties StartupItem="iOS/XamarinForms1.iOS.csproj" />
+﻿<Properties StartupItem="iOS/XamarinForms1.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6.8.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinForms1/MyPage.cs">
+    <Files>
+      <File FileName="XamarinForms1/CarouselPage.cs" Line="19" Column="41" />
+      <File FileName="XamarinForms1/TabbedPage.cs" Line="22" Column="58" />
+      <File FileName="XamarinForms1/MasterPage.cs" Line="38" Column="7" />
+      <File FileName="XamarinForms1/MyPage.cs" Line="14" Column="6" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="XamarinForms1/XamarinForms1.cs" Line="12" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

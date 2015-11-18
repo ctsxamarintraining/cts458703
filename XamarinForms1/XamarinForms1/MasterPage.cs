@@ -44,11 +44,11 @@ namespace XamarinForms1
 
 			listView.ItemSelected += (sender, args) =>
 			{
-				if(listView.SelectedItem.ToString()==@"ContentPage")
+				if(listView.SelectedItem.ToString()=="ContentPage")
 				{
 					this.Detail = new NavigationPage(new MyPage());
 				}
-				else if(listView.SelectedItem.ToString()==@"CarouselPage")
+				else if(listView.SelectedItem.ToString()=="CarouselPage")
 				{
 					this.Detail = new NavigationPage(new CarouselPage());
 				}
