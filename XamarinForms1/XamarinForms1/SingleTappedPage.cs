@@ -24,6 +24,7 @@ namespace XamarinForms1
 
 			if (index == 1) {
 				Content = new StackLayout { 
+					
 					Children = {
 						new Label { Text = "Blue" },
 						new BoxView { Color = Color.Blue,
