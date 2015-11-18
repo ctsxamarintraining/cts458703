@@ -5,3 +5,5 @@
 /Users/nikhil/Projects/XamarinForms1/XamarinForms1/obj/Debug/XamarinForms1.dll.mdb
 /Users/nikhil/Projects/XamarinForms1/XamarinForms1/bin/Debug/Xamarin.Forms.Core.dll
 /Users/nikhil/Projects/XamarinForms1/XamarinForms1/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/nikhil/Projects/XamarinForms1/XamarinForms1/bin/Debug/SQLitePCL.raw.dll
+/Users/nikhil/Projects/XamarinForms1/XamarinForms1/bin/Debug/SQLite-net.dll

@@ -29,16 +29,16 @@ namespace XamarinForms1
 			layout.Children.Add(button, Constraint.Constant(140),Constraint.Constant(235));
 
 			button.Clicked += (sender, e) => {
-//				if (String.IsNullOrEmpty(username.Text) || String.IsNullOrEmpty(password.Text))
-//				{
-//					DisplayAlert("Validation Error", "Username and Password are required", "Re-try");
-//
-//					
-//				} else if(username.Text=="Nikhil" &&password.Text=="123456"){
+				if (String.IsNullOrEmpty(username.Text) || String.IsNullOrEmpty(password.Text))
+				{
+					DisplayAlert("Validation Error", "Username and Password are required", "Re-try");
+
+					
+				} else if(username.Text=="Nikhil" &&password.Text=="123456"){
 
 				this.Navigation.PushAsync(new MasterPage());
 					
-				//}
+				}
 			};
 				
 
