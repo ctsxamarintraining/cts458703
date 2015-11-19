@@ -37,11 +37,11 @@ namespace XamarinForms1
 				} else if(username.Text=="Nikhil" &&password.Text=="123456"){
 
 				this.Navigation.PushAsync(new MasterPage());
+
 					
 				}
 			};
 				
-
 			this.Content = layout;
 
 		}

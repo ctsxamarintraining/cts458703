@@ -1,12 +1,11 @@
 ﻿<Properties StartupItem="iOS/XamarinForms1.iOS.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Xamarin_Android_API_15" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinForms1/MasterPage.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6.8.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/AppDelegate.cs">
     <Files>
-      <File FileName="XamarinForms1/CarouselPage.cs" Line="19" Column="41" />
-      <File FileName="XamarinForms1/TabbedPage.cs" Line="34" Column="23" />
-      <File FileName="XamarinForms1/MasterPage.cs" Line="51" Column="47" />
-      <File FileName="XamarinForms1/MyPage.cs" Line="14" Column="6" />
-      <File FileName="XamarinForms1/SingleTappedPage.cs" Line="33" Column="7" />
+      <File FileName="XamarinForms1/Persondetails.cs" Line="30" Column="4" />
+      <File FileName="XamarinForms1/FormPage.cs" Line="94" Column="57" />
+      <File FileName="XamarinForms1/XamarinForms1.cs" Line="13" Column="4" />
+      <File FileName="iOS/AppDelegate.cs" Line="19" Column="12" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
