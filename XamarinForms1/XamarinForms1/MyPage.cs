@@ -1,11 +1,12 @@
 ﻿using System;
-
+using SQLite;
 using Xamarin.Forms;
 
 namespace XamarinForms1
 {
 	public class MyPage : ContentPage
 	{
+		SQLiteConnection database;
 		public MyPage ()
 		{
 			RelativeLayout stack = new RelativeLayout ();
@@ -22,7 +23,10 @@ namespace XamarinForms1
 
 
 			button.Clicked += (sender, e) => {
-				this.Navigation.PushAsync (new FormPage ());
+				database = DependencyService.Get<ISQLite> ().GetConnection ();
+				var stockList = database.Table<Person>();
+				//this.Navigation.PushAsync (new FormPage ());
+				this.Navigation.PushAsync (new FootballPlayerPage(stockList));
 			};
 
 			this.Content = stack;

@@ -17,7 +17,7 @@ namespace XamarinForms1.iOS
 
 		public SQLite.SQLiteConnection GetConnection ()
 		{
-			var sqliteFilename = "PersonSQLite.db3";
+			var sqliteFilename = "PersonSQLite1.db3";
 			string documentsPath = Environment.GetFolderPath (Environment.SpecialFolder.Personal);
 			Console.WriteLine (documentsPath);
 			var mypath = Path.Combine (documentsPath,sqliteFilename);

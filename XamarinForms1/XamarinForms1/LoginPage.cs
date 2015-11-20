@@ -8,7 +8,11 @@ namespace XamarinForms1
 	{
 		public LoginPage ()
 		{
+
+
 			RelativeLayout layout = new RelativeLayout {Padding=10};
+		
+
 			var label = new Label {
 				Text = "Login Page",
 				FontSize = Device.GetNamedSize (NamedSize.Large, typeof(Label)),
@@ -36,11 +40,23 @@ namespace XamarinForms1
 					
 				} else if(username.Text=="Nikhil" &&password.Text=="123456"){
 
-				this.Navigation.PushAsync(new MasterPage());
+				this.Navigation.PushModalAsync(new MasterPage());
 
 					
 				}
 			};
+
+	
+//			StackLayout stack = new StackLayout ();
+//
+//			ScrollView horizontalContent = new ScrollView {
+//				Orientation = ScrollOrientation.Vertical,
+//				Padding = new Thickness(20),
+//				//Content=layout
+//
+//			};
+//			stack.Children.Add (horizontalContent);
+//			layout.Children.Add (stack);
 				
 			this.Content = layout;
 

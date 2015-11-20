@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -38,9 +38,14 @@
     <Compile Include="TabbedPage.cs" />
     <Compile Include="SingleTappedPage.cs" />
     <Compile Include="LoginPage.cs" />
-    <Compile Include="FormPage.cs" />
     <Compile Include="Sqlite.cs" />
-    <Compile Include="Person.cs" />
+    <Compile Include="FootballPlayersListPage.cs" />
+    <Compile Include="Xaml\FootballPlayerPage.xaml.cs">
+      <DependentUpon>FootballPlayerPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Xaml\FootballPlayerListViewModel.cs" />
+    <Compile Include="DetailsPage.cs" />
+    <Compile Include="FootballPerson.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
   <Import Project="..\packages\Xamarin.Forms.2.0.0.6482\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets" Condition="Exists('..\packages\Xamarin.Forms.2.0.0.6482\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets')" />
@@ -63,5 +68,14 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Xaml\FootballPlayerPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Properties\New Folder\" />
+    <Folder Include="Xaml\" />
   </ItemGroup>
 </Project>

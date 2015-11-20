@@ -27,6 +27,10 @@
 /Users/nikhil/Projects/XamarinForms1/iOS/obj/iPhoneSimulator/Debug/optimized/Icon-Small-40@2x.png
 /Users/nikhil/Projects/XamarinForms1/iOS/obj/iPhoneSimulator/Debug/optimized/Icon-Small-40@3x.png
 /Users/nikhil/Projects/XamarinForms1/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/nikhil/Projects/XamarinForms1/iOS/bin/iPhoneSimulator/Debug/XamarinForms1.iOS.exe.mdb
+/Users/nikhil/Projects/XamarinForms1/iOS/bin/iPhoneSimulator/Debug/XamarinForms1.iOS.exe
+/Users/nikhil/Projects/XamarinForms1/iOS/obj/iPhoneSimulator/Debug/XamarinForms1.iOS.exe
+/Users/nikhil/Projects/XamarinForms1/iOS/obj/iPhoneSimulator/Debug/XamarinForms1.iOS.exe.mdb
 /Users/nikhil/Projects/XamarinForms1/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
 /Users/nikhil/Projects/XamarinForms1/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
 /Users/nikhil/Projects/XamarinForms1/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
@@ -35,7 +39,3 @@
 /Users/nikhil/Projects/XamarinForms1/iOS/bin/iPhoneSimulator/Debug/Calabash.dll
 /Users/nikhil/Projects/XamarinForms1/iOS/bin/iPhoneSimulator/Debug/XamarinForms1.dll
 /Users/nikhil/Projects/XamarinForms1/iOS/bin/iPhoneSimulator/Debug/XamarinForms1.dll.mdb
-/Users/nikhil/Projects/XamarinForms1/iOS/bin/iPhoneSimulator/Debug/XamarinForms1.iOS.exe.mdb
-/Users/nikhil/Projects/XamarinForms1/iOS/bin/iPhoneSimulator/Debug/XamarinForms1.iOS.exe
-/Users/nikhil/Projects/XamarinForms1/iOS/obj/iPhoneSimulator/Debug/XamarinForms1.iOS.exe
-/Users/nikhil/Projects/XamarinForms1/iOS/obj/iPhoneSimulator/Debug/XamarinForms1.iOS.exe.mdb
