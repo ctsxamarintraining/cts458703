@@ -1,6 +1,6 @@
-# Version: 9.1.0.31 (monotouch-9.1.0-branch: bae2cdb)
+# Version: 9.2.1.51 (cycle6-xi: 3c0ec35)
 # [first argument, ignore] # /Users/nikhil/Projects/XamarinForms1/iOS/mtouch.exe
-/Library/Frameworks/Xamarin.iOS.framework/Versions/9.1.0.31/bin/mtouch \
+/Library/Frameworks/Xamarin.iOS.framework/Versions/9.2.1.51/bin/mtouch \
 	--cache \
 	/Users/nikhil/Projects/XamarinForms1/iOS/obj/iPhoneSimulator/Debug/mtouch-cache \
 	--sim \

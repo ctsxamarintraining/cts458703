@@ -39,3 +39,7 @@
 /Users/nikhil/Projects/XamarinForms1/iOS/bin/iPhoneSimulator/Debug/Calabash.dll
 /Users/nikhil/Projects/XamarinForms1/iOS/bin/iPhoneSimulator/Debug/XamarinForms1.dll
 /Users/nikhil/Projects/XamarinForms1/iOS/bin/iPhoneSimulator/Debug/XamarinForms1.dll.mdb
+/Users/nikhil/Projects/XamarinForms1/iOS/obj/iPhoneSimulator/Debug/optimized/India.png
+/Users/nikhil/Projects/XamarinForms1/iOS/obj/iPhoneSimulator/Debug/optimized/China.png
+/Users/nikhil/Projects/XamarinForms1/iOS/obj/iPhoneSimulator/Debug/optimized/Japan.png
+/Users/nikhil/Projects/XamarinForms1/iOS/obj/iPhoneSimulator/Debug/optimized/USA.png
