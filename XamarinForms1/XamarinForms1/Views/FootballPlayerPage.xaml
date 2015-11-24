@@ -9,20 +9,21 @@
 
 	<ContentPage.Content>
 
-	 <ListView x:Name="FootballPlayerPages1" ItemsSource="{Binding Football_Player}" ItemSelected="OnItemSelected">
+	 <ListView x:Name="FootballPlayerPages1" ItemsSource="{Binding Football_Player_List}" ItemSelected="OnItemSelected">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
                     <ViewCell.ContextActions>
-							<MenuItem Clicked="OnDelete" CommandParameter="{Binding .}" Text="Delete" IsDestructive="True" />
-							<MenuItem Clicked="AddAsFavourite" CommandParameter="{Binding .}" Text="Favourite" IsDestructive="True" />
+							<MenuItem  CommandParameter="{Binding .}"  Command="{Binding DeleteCommand}" Text="Delete" IsDestructive="True" />
+							<MenuItem  Command="{Binding FavouriteCommand}" CommandParameter="{Binding .}" Text="{Binding Favourite}"  />
 
 						</ViewCell.ContextActions>
                         <StackLayout BackgroundColor="#eee" Orientation="Horizontal">
 <!--                           <Image  x:Name="img"/>-->
-                            <Image x:Name="imageee" Source="{Binding countryImage}" WidthRequest="100" HeightRequest="100"/>
+                             <Image x:Name="imagee" Source="{Binding countryImage}" WidthRequest="100" HeightRequest="100" />
 
-                               <Label Text="{Binding cName}" x:Name="Rohit" TextColor="Black" />
+                               <Label Text="{Binding cName}" x:Name="Rohit" TextColor="Black" HorizontalOptions="CenterAndExpand" />
+                               <Image x:Name="imageee" Source="{Binding countryImage}" WidthRequest="100" HeightRequest="100" HorizontalOptions="EndAndExpand"/>
                        
                                </StackLayout>
                     </ViewCell>

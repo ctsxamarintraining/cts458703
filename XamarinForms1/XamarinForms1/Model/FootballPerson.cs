@@ -2,6 +2,9 @@
 using SQLite;
 using Xamarin.Forms;
 using System.Collections.ObjectModel;
+using System.Windows.Input;
+using System.Collections.Generic;
+using System.Diagnostics;
 
 namespace XamarinForms1
 {
@@ -20,23 +23,69 @@ namespace XamarinForms1
 		public string descriptiondet{ get; set; }
 		public bool fav{ get; set ; }
 
-		public void del(int i)
+
+		public ICommand DeleteCommand
 		{
-			SQLiteConnection database;
-
-			database = DependencyService.Get<ISQLite> ().GetConnection ();
-
-			database.CreateTable<Person> ();
-			database.Delete<Person> (i);
 
 
-
+			get {
+				return new Command<Person> (execute: (Person theplayer)=>
+					{
+						SQLiteConnection database;
+						database = DependencyService.Get<ISQLite> ().GetConnection ();
+						List<Person> newplayerlist = database.Query<Person> ("SELECT * FROM Person WHERE cName = ?", theplayer.cName);
+						database.Delete (newplayerlist [0]);  
+						MessagingCenter.Send(this,"SomethingHappened");
+					});
+			}
 		}
+
+
+		public ICommand FavouriteCommand
+		{
+
+			get {
+				return new Command<Person> (execute: (Person theplayer)=>
+					{
+						SQLiteConnection database;
+						database = DependencyService.Get<ISQLite> ().GetConnection ();
+						List<Person> newplayerlist = database.Query<Person> ("SELECT * FROM Person WHERE cName = ?", theplayer.cName);
+						newplayerlist [0].fav = !(newplayerlist [0].fav);
+
+						database.Update (newplayerlist [0]);  
+						MessagingCenter.Send(this,"SomethingHappened");
+					
+					});
+			}
+		}
+
+
 
 
 		public string countryImage{
 
 			get{ return String.Concat(country,".png");}
+		}
+
+		public string Favourite{
+			
+			get{
+				 string str;
+				if (fav) {
+					str = "Favourite";
+					return str;
+				} else if (!fav) {
+
+					str = "Unfavourite";
+					return str;
+				} 
+				else {
+					return "hbj";
+				}
+
+			}
+
+	
 		}
 
 
@@ -51,16 +100,7 @@ namespace XamarinForms1
 			}
 	
 
-		public void updateplayerFavourite(Person obj)
-		{
-			SQLiteConnection database;
 
-			database = DependencyService.Get<ISQLite> ().GetConnection ();
-
-			database.CreateTable<Person> ();
-			database.Update (obj);
-
-		}
 	}
 }
 

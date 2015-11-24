@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinForms1.iOS", "XamarinForms1.iOS.csproj", "{5E735BF2-C584-4F76-ABB2-3EADB830BFB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E735BF2-C584-4F76-ABB2-3EADB830BFB6}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{5E735BF2-C584-4F76-ABB2-3EADB830BFB6}.Debug|iPhone.Build.0 = Debug|iPhone
+		{5E735BF2-C584-4F76-ABB2-3EADB830BFB6}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{5E735BF2-C584-4F76-ABB2-3EADB830BFB6}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{5E735BF2-C584-4F76-ABB2-3EADB830BFB6}.Release|iPhone.ActiveCfg = Release|iPhone
+		{5E735BF2-C584-4F76-ABB2-3EADB830BFB6}.Release|iPhone.Build.0 = Release|iPhone
+		{5E735BF2-C584-4F76-ABB2-3EADB830BFB6}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{5E735BF2-C584-4F76-ABB2-3EADB830BFB6}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
