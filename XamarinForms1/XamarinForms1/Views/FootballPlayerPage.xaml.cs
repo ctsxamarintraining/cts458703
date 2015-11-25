@@ -17,6 +17,9 @@ namespace XamarinForms1
 		
 			this.BindingContext = new FootballPlayerListViewModel();
 
+
+			ViewCell vc = new ViewCell ();
+
 		}
 
 

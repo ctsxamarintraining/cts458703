@@ -13,7 +13,7 @@
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
-                    <ViewCell.ContextActions>
+                    <ViewCell.ContextActions >
 							<MenuItem  CommandParameter="{Binding .}"  Command="{Binding DeleteCommand}" Text="Delete" IsDestructive="True" />
 							<MenuItem  Command="{Binding FavouriteCommand}" CommandParameter="{Binding .}" Text="{Binding Favourite}"  />
 

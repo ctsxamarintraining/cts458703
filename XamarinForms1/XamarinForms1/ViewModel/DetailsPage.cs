@@ -76,6 +76,7 @@ namespace XamarinForms1
 				
 
 			var datePicker = new DatePicker ();
+			string format = "MMMM d, yyyy";
 			layout.Children.Add (datePicker, Constraint.Constant (75), Constraint.Constant (190));
 
 
@@ -119,7 +120,7 @@ namespace XamarinForms1
 
 			button.Clicked += (sender, e) => {
 
-				Person personObj=new Person(false,firstname.Text,g.Text,description.Text,datePicker.Date.ToString(),array[picker.SelectedIndex].ToString());
+				Person personObj=new Person(false,firstname.Text,g.Text,description.Text,datePicker.Date.ToString(format),array[picker.SelectedIndex].ToString());
 				Debug.WriteLine( array[picker.SelectedIndex].ToString());
 				database = DependencyService.Get<ISQLite> ().GetConnection ();
 
@@ -130,7 +131,7 @@ namespace XamarinForms1
 //			
 //
 //
-				var stockList = database.Table<Person>();
+				//var stockList = database.Table<Person>();
 //		
 //			
 //
