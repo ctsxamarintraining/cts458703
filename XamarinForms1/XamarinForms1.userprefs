@@ -2,10 +2,10 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6.8.3" />
   <MonoDevelop.Ide.Workbench ActiveDocument="XamarinForms1/ViewModel/DetailsPage.cs">
     <Files>
-      <File FileName="XamarinForms1/ViewModel/FootballPlayerListViewModel.cs" Line="45" Column="4" />
-      <File FileName="XamarinForms1/Views/FootballPlayerPage.xaml" Line="31" Column="37" />
+      <File FileName="XamarinForms1/ViewModel/FootballPlayerListViewModel.cs" Line="1" Column="1" />
+      <File FileName="XamarinForms1/Views/FootballPlayerPage.xaml" Line="1" Column="1" />
       <File FileName="XamarinForms1/ViewModel/DetailsPage.cs" Line="70" Column="6" />
-      <File FileName="XamarinForms1/Views/FootballPlayerPage.xaml.cs" Line="20" Column="4" />
+      <File FileName="XamarinForms1/Views/FootballPlayerPage.xaml.cs" Line="1" Column="1" />
       <File FileName="XamarinForms1/Model/FootballPerson.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
